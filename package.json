@@ -4,6 +4,7 @@
   "description": "Service linked local npm package to you project in node_modules",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
