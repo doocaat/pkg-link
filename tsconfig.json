@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "allowUnreachableCode": false,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "types": ["node"]
+  }
+}
